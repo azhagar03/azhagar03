@@ -100,7 +100,7 @@ Dynamic corporate website — gallery, services & development portfolio.
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 BuyByBest — E-Commerce
+### 🛒 The Indian Commerce — E-Commerce
 Amazon-style shopping platform. Product listing, cart, order history & admin panel.
 
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
